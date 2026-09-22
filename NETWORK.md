@@ -1,17 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Agent Workflow Builder
 
-**ai-agent-workflow-builder** is part of the Zion Tech Group app network (640+ apps).
+Visually design multi-agent automations.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🏠 [Zion Tech Group](https://ziontechgroup.com) · 💼 [Plans](https://ziontechgroup.com/en/plans/) · 📞 [Discovery](https://ziontechgroup.com/discovery/)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [agents](https://github.com/Zion-support/agents)
+- Related: [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) · [zion-ai-agent-builder](https://github.com/Zion-support/zion-ai-agent-builder) · [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) · [zion-ai-chatbot-builder](https://github.com/Zion-support/zion-ai-chatbot-builder)
 
-## Related apps
-- [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) — https://ziontechgroup.com/ai-agent-workflow/
-- [zion-agent-stack-builder](https://github.com/Zion-support/zion-agent-stack-builder) — https://ziontechgroup.com/zion-agent-stack-builder/
-- [zion-ai-agent-builder](https://github.com/Zion-support/zion-ai-agent-builder) — https://ziontechgroup.com/zion-ai-agent-builder/
-- [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) — https://ziontechgroup.com/agent-sla-monitor/
-- [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — https://ziontechgroup.com/ai-agent-fleet/
-- [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) — https://ziontechgroup.com/ai-agent-swarm/
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
